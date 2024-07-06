@@ -248,7 +248,7 @@ body {
   align-items: center;
   justify-content: center;
   transition: 0.2s ease-in-out;
-  background: url("/assets/Mediamodifier-Design-Template.png") no-repeat center;
+  background: url("assets/Mediamodifier-Design-Template.png") no-repeat center;
 }
 
 /* Thumb: Firefox */
@@ -262,28 +262,28 @@ body {
   align-items: center;
   justify-content: center;
   transition: 0.2s ease-in-out;
-  background: url("/assets/Mediamodifier-Design-Template.png") no-repeat center;
+  background: url("assets/Mediamodifier-Design-Template.png") no-repeat center;
   box-shadow: 0 15px 15px 5px var(--full-slider-bar);
 }
 
 /* Hover, active & focus Thumb: Webkit */
 #slider::-webkit-slider-thumb:hover {
-  background: url("/assets/Mediamodifier-Design-Template-hover.png") no-repeat
+  background: url("assets/Mediamodifier-Design-Template-hover.png") no-repeat
     center;
 }
 #slider:active::-webkit-slider-thumb {
-  background: url("/assets/Mediamodifier-Design-Template-active.png") no-repeat
+  background: url("assets/Mediamodifier-Design-Template-active.png") no-repeat
     center;
   cursor: grabbing;
 }
 
 /* Hover, active & focus Thumb: Firefox */
 #slider::-moz-range-thumb:hover {
-  background: url("/assets/Mediamodifier-Design-Template-hover.png") no-repeat
+  background: url("assets/Mediamodifier-Design-Template-hover.png") no-repeat
     center;
 }
 #slider:active::-moz-range-thumb {
-  background: url("/assets/Mediamodifier-Design-Template-active.png") no-repeat
+  background: url("assets/Mediamodifier-Design-Template-active.png") no-repeat
     center;
   cursor: grabbing;
 }
