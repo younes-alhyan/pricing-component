@@ -249,6 +249,7 @@ body {
   justify-content: center;
   transition: 0.2s ease-in-out;
   background: url("assets/Mediamodifier-Design-Template.png") no-repeat center;
+  box-shadow: 0 15px 15px 5px var(--full-slider-bar);
 }
 
 /* Thumb: Firefox */
