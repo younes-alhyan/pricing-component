@@ -12,7 +12,7 @@ This challenge will get you thinking about building an accessible custom toggle 
 
 ## 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/simple-pricing-component-fNhndcXm8D) 
+[Solution Link](https://www.frontendmentor.io/solutions/simple-pricing-component-fNhndcXm8D)
 
 ## 🚀 Live Demo
 
@@ -21,6 +21,12 @@ This challenge will get you thinking about building an accessible custom toggle 
 ## 🔎 More
 
 [GitHub Repository](https://github.com/younes-alhyan/frontend-mentor/)
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🔥 Difficulty
 
