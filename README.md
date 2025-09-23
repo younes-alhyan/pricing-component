@@ -1,4 +1,4 @@
-# 📁 Pricing Component
+# 📂 Pricing Component
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1611325428/Challenges/fp0qtspesm6i0miyqncg.jpg)
 
